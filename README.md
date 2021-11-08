@@ -1,9 +1,10 @@
 # Сайт для портфолио №7
 
-Ссылка на главную страницу: https://galaxy4400.github.io/freshnesecom/ <br>
-Ссылка на страницу каталога: https://galaxy4400.github.io/freshnesecom/catalog.html <br>
-Ссылка на страницу каталога 2: https://galaxy4400.github.io/freshnesecom/catalog-grid.html <br>
-Ссылка на страницу продукта: https://galaxy4400.github.io/freshnesecom/details.html <br>
-Ссылка на страницу заказа: https://galaxy4400.github.io/freshnesecom/order.html <br>
-Ссылка на страницу блогов: https://galaxy4400.github.io/freshnesecom/blogs.html <br>
-Ссылка на страницу блога: https://galaxy4400.github.io/freshnesecom/blog.html <br>
+Ссылка на главную страницу: https://galaxy4400.github.io/aurum/ <br>
+Ссылка на страницу "О нас": https://galaxy4400.github.io/aurum/about.html <br>
+Ссылка на страницу "Галлерея": https://galaxy4400.github.io/aurum/gallery.html <br>
+Ссылка на страницу "Кухня": https://galaxy4400.github.io/aurum/kitchen.html <br>
+Ссылка на страницу "Бар": https://galaxy4400.github.io/aurum/bar.html <br>
+Ссылка на страницу "Винная карта": https://galaxy4400.github.io/aurum/vine.html <br>
+Ссылка на страницу "Афиша": https://galaxy4400.github.io/aurum/billboard.html <br>
+Ссылка на страницу "Контакты": https://galaxy4400.github.io/aurum/contacts.html <br>
